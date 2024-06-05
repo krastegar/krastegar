@@ -72,7 +72,7 @@ Here are some of my notable projects:
 - Email: krastegar0@gmail.com
 - LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
 
-## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px" height="50px"> My Future Self
+## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="80px" height="80px"> My Future Self
 <!--
 https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif
 -->
@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-
 
 <details>
   <summary style="font-weight: bold; font-size: 16px;">Important Note</summary>
-  <p style="background-color: #f0f0f0; padding: 10px;">All of the GIFs used can be found here [GIF page](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#animated-hello-). The images above are AI generated from ChatGPT GIF Maker. We love AI 😃 </p>
+  <p style="background-color: #f0f0f0; padding: 10px;">The images above are AI generated from ChatGPT GIF Maker. We love AI 😃 </p>
 </details>
 
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
+All of the GIFs used can be found here [GIF page](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#animated-hello-). Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
