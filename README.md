@@ -61,11 +61,6 @@ Greetings! I'm Kiarash Rastegar, a dedicated developer deeply passionate about b
 ![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krastegar&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krastegar&layout=compact&theme=dark)
 
-
-## 📫 Contact Me
-- Email: krastegar0@gmail.com
-- LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
-
 ## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100px" height="100px"> My Future Self
 <!--
 https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif
@@ -77,4 +72,9 @@ https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-
   <p style="background-color: #f0f0f0; padding: 10px;">The images above are AI generated from ChatGPT GIF Maker. We love AI 😃 </p>
 </details>
 
-All of the GIFs used can be found here [GIF page](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#animated-hello-). Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
+All of the GIFs used can be found here [GIF page](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#animated-hello-). <br>
+
+## 📫 Contact Me
+- Email: krastegar0@gmail.com
+- LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/) <br>
+Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
