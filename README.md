@@ -77,4 +77,4 @@ All of the GIFs used can be found here [GIF page](https://github.com/Anmol-Baran
 ## 📫 Contact Me
 - Email: krastegar0@gmail.com
 - LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/) <br>
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
+<br>Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
