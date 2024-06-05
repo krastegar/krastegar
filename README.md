@@ -54,8 +54,8 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 ![salmon](https://img.shields.io/badge/salmon-4B8BBE?style=flat&logo=salmon&logoColor=white)
 ![nextflow](https://img.shields.io/badge/nextflow-4B8BBE?style=flat&logo=nextflow&logoColor=white)
 
-https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif
-## <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px" height="30px"> Projects
+
+## <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="50px" height="50px"> Projects
 
 Here are some of my notable projects:
 - [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines](https://colab.research.google.com/drive/1L2FKnlWWphCRIgh5LXKymLgeI-3RhlN5?usp=sharing) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
