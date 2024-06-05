@@ -1,12 +1,13 @@
 # Hi there, I'm Kiarash Rastegar 👋
 
 ## 🌟 Introduction
-I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, data analysis, and machine learning engineering. With a strong background in biological and medical informatics, I love creating innovative solutions and contributing to open-source projects. Currently, I'm focused on developing predictive models and optimizing data processing workflows.
+I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, data analysis, and machine learning engineering. With a strong background in biological and medical informatics, I love creating innovative solutions and contributing to open-source projects. My main passion and interests lie in applying and developing new ML models to the realm of Biology and diagnostics
 
 - 🔭 I’m currently working on: Predictive modeling of long-term antibody responses to viral vaccines.
 - 🌱 I’m currently learning: Advanced machine learning techniques and high throughput computing.
 - 👯 I’m looking to collaborate on: Bioinformatics projects and machine learning research.
 - 💬 Ask me about: Machine learning, bioinformatics tools, and data analysis.
+
 
 ## 🛠️ Skills and Technologies
 
@@ -66,9 +67,7 @@ Here are some of my notable projects:
 - Email: krastegar0@gmail.com
 - LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
 
-## 🌱 Fun Facts
-- 🎨 I love painting and digital art.
-- 🌍 I've visited 15 countries.
-- 💡 Fun fact: I enjoy rock climbing and often incorporate it into my travel adventures.
+## 🌱 Me at Home
+![Coding Experience](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
