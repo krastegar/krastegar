@@ -72,7 +72,7 @@ Here are some of my notable projects:
 - Email: krastegar0@gmail.com
 - LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
 
-## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="80px" height="80px"> My Future Self
+## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100px" height="100px"> My Future Self
 <!--
 https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif
 -->
