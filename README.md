@@ -7,19 +7,16 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 - 🌱 I’m currently learning: Advanced machine learning techniques and high throughput computing.
 - 👯 I’m looking to collaborate on: Bioinformatics projects and machine learning research.
 - 💬 Ask me about: Machine learning, bioinformatics tools, and data analysis.
-- 📫 How to reach me: krastegar0@gmail.com
 
 ## 🛠️ Skills and Technologies
-- **Languages:** English (native), Farsi (fluent)
 - **Programming Languages:** Python, R, C++, Bash, SQL
 - **Software:** Anaconda, TensorFlow, Keras, scikit-learn, JMP, Git, MySQL, MariaDB, Docker, Flask, Oracle SQL Developer, PowerBI, Microsoft SSMS, Snowflake
 - **Bioinformatics Tools:** FastP, FastQC, spAdes, quast, mafft, kaiju, kraken, bowtie2, sourmash, samtools, bedtools, kbase, maxbin2, GTDB-tk, DRAM, salmon, nextflow
-- **Lab Techniques:** qPCR, qRT-PCR, DNA/RNA extractions, protein purification, Bioanalyzer, NextGenSequencing (NGS), Fluorescent Correlation Spectroscopy (FCS), ELISA, Nano-tracking Particle Assay (NTA)
 
 ## 🚀 Projects
 Here are some of my notable projects:
-- [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines]([link](https://colab.research.google.com/drive/1L2FKnlWWphCRIgh5LXKymLgeI-3RhlN5?usp=sharing)) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
-- [Tumor Classification]([link](https://colab.research.google.com/drive/12f7J5FHwg043vFNRnTRNlCgEOc9r-_YT)) - Developed predictive models using machine learning techniques to classify malignant vs benign breast cancer data.
+- [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines](https://colab.research.google.com/drive/1L2FKnlWWphCRIgh5LXKymLgeI-3RhlN5?usp=sharing) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
+- [Tumor Classification](https://colab.research.google.com/drive/12f7J5FHwg043vFNRnTRNlCgEOc9r-_YT) - Developed predictive models using machine learning techniques to classify malignant vs benign breast cancer data.
 - [Optimized Cancer Cluster Analysis with Feature Selection](https://krastegar.github.io/Data_Analysis_withR/) - Used unsupervised learning and feature selection techniques to improve cancer cluster analysis.
 
 ## 📈 GitHub Stats
