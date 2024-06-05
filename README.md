@@ -73,5 +73,8 @@ Here are some of my notable projects:
 - LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
 
 ## 🌱 Me at Home 
+<!--
 ![Coding Experience](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
+-->
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="200px" height="200px">
+<br>Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
