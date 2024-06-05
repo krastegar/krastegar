@@ -64,8 +64,8 @@ Here are some of my notable projects:
 
 ## 📈 GitHub Stats
 
-![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krastegar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krastegar&layout=compact&theme=radical)
+![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krastegar&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krastegar&layout=compact&theme=dark)
 
 
 ## 📫 Contact Me
