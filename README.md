@@ -1,39 +1,39 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Kiarash Rastegar 👋
 
-###
+## 🌟 Introduction
+I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, data analysis, and machine learning engineering. With a strong background in biological and medical informatics, I love creating innovative solutions and contributing to open-source projects. Currently, I'm focused on developing predictive models and optimizing data processing workflows.
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+- 🔭 I’m currently working on: Predictive modeling of long-term antibody responses to viral vaccines.
+- 🌱 I’m currently learning: Advanced machine learning techniques and high throughput computing.
+- 👯 I’m looking to collaborate on: Bioinformatics projects and machine learning research.
+- 💬 Ask me about: Machine learning, bioinformatics tools, and data analysis.
+- 📫 How to reach me: krastegar0@gmail.com
 
-###
+## 🛠️ Skills and Technologies
+- **Languages:** English (native), Farsi (fluent)
+- **Programming Languages:** Python, R, C++, Bash, SQL
+- **Software:** Anaconda, TensorFlow, Keras, scikit-learn, JMP, Git, MySQL, MariaDB, Docker, Flask, Oracle SQL Developer, PowerBI, Microsoft SSMS, Snowflake
+- **Bioinformatics Tools:** FastP, FastQC, spAdes, quast, mafft, kaiju, kraken, bowtie2, sourmash, samtools, bedtools, kbase, maxbin2, GTDB-tk, DRAM, salmon, nextflow
+- **Lab Techniques:** qPCR, qRT-PCR, DNA/RNA extractions, protein purification, Bioanalyzer, NextGenSequencing (NGS), Fluorescent Correlation Spectroscopy (FCS), ELISA, Nano-tracking Particle Assay (NTA)
 
-<h2 align="left">About me</h2>
+## 🚀 Projects
+Here are some of my notable projects:
+- [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines](link) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
+- [Tumor Classification](link) - Developed predictive models using machine learning techniques to classify malignant vs benign breast cancer data.
+- [Optimized Cancer Cluster Analysis with Feature Selection](link) - Used unsupervised learning and feature selection techniques to improve cancer cluster analysis.
 
-###
+## 📈 GitHub Stats
+![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 📫 Contact Me
+- Email: krastegar0@gmail.com
+- LinkedIn: [Your LinkedIn Profile](link)
+- GitHub: [Your GitHub Profile](link)
 
-###
+## 🌱 Fun Facts
+- 🎨 I love painting and digital art.
+- 🌍 I've visited 15 countries.
+- 💡 Fun fact: I enjoy rock climbing and often incorporate it into my travel adventures.
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
