@@ -9,9 +9,48 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 - 💬 Ask me about: Machine learning, bioinformatics tools, and data analysis.
 
 ## 🛠️ Skills and Technologies
-- **Programming Languages:** Python, R, C++, Bash, SQL
-- **Software:** Anaconda, TensorFlow, Keras, scikit-learn, JMP, Git, MySQL, MariaDB, Docker, Flask, Oracle SQL Developer, PowerBI, Microsoft SSMS, Snowflake
-- **Bioinformatics Tools:** FastP, FastQC, spAdes, quast, mafft, kaiju, kraken, bowtie2, sourmash, samtools, bedtools, kbase, maxbin2, GTDB-tk, DRAM, salmon, nextflow
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+### Software
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![JMP](https://img.shields.io/badge/JMP-0176C1?style=flat&logo=sas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+### Bioinformatics Tools
+- FastP
+- FastQC
+- spAdes
+- quast
+- mafft
+- kaiju
+- kraken
+- bowtie2
+- sourmash
+- samtools
+- bedtools
+- kbase
+- maxbin2
+- GTDB-tk
+- DRAM
+- salmon
+- nextflow
 
 ## 🚀 Projects
 Here are some of my notable projects:
