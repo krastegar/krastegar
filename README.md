@@ -7,10 +7,10 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 - 🌱 I’m currently learning: Advanced machine learning techniques and high throughput computing.
 - 👯 I’m looking to collaborate on: Bioinformatics projects and machine learning research.
 - 💬 Ask me about: Machine learning, bioinformatics tools, and data analysis.
-![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 ## 🛠️ Skills and Technologies
- ![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -52,7 +52,7 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 ![DRAM](https://img.shields.io/badge/DRAM-4B8BBE?style=flat&logo=dram&logoColor=white)
 ![salmon](https://img.shields.io/badge/salmon-4B8BBE?style=flat&logo=salmon&logoColor=white)
 ![nextflow](https://img.shields.io/badge/nextflow-4B8BBE?style=flat&logo=nextflow&logoColor=white)
-![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
  
 ## 🚀 Projects
 ![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
@@ -66,14 +66,12 @@ Here are some of my notable projects:
 ![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krastegar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krastegar&layout=compact&theme=radical)
-![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 ## 📫 Contact Me
 - Email: krastegar0@gmail.com
 - LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
 
 ## 🌱 Me at Home
-![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ![Coding Experience](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
