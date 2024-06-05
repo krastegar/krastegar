@@ -11,7 +11,7 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 
 
 ## 🛠️ Skills and Technologies
-
+![Cyber Coder](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
