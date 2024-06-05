@@ -1,4 +1,4 @@
-# Hi there, I'm Kiarash Rastegar 👋
+# Hi there, I'm Kiarash Rastegar ![Waving Hand](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
 ![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 🌟 Introduction
 I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, data analysis, and machine learning engineering. With a strong background in biological and medical informatics, I love creating innovative solutions and contributing to open-source projects. My main passion and interests lie in applying and developing new ML models to the realm of Biology and diagnostics
