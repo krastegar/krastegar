@@ -18,18 +18,17 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 
 ## 🚀 Projects
 Here are some of my notable projects:
-- [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines](link) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
-- [Tumor Classification](link) - Developed predictive models using machine learning techniques to classify malignant vs benign breast cancer data.
-- [Optimized Cancer Cluster Analysis with Feature Selection](link) - Used unsupervised learning and feature selection techniques to improve cancer cluster analysis.
+- [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines]([link](https://colab.research.google.com/drive/1L2FKnlWWphCRIgh5LXKymLgeI-3RhlN5?usp=sharing)) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
+- [Tumor Classification]([link](https://colab.research.google.com/drive/12f7J5FHwg043vFNRnTRNlCgEOc9r-_YT)) - Developed predictive models using machine learning techniques to classify malignant vs benign breast cancer data.
+- [Optimized Cancer Cluster Analysis with Feature Selection](https://krastegar.github.io/Data_Analysis_withR/) - Used unsupervised learning and feature selection techniques to improve cancer cluster analysis.
 
 ## 📈 GitHub Stats
-![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krastegar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krastegar&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 - Email: krastegar0@gmail.com
-- LinkedIn: [Your LinkedIn Profile](link)
-- GitHub: [Your GitHub Profile](link)
+- LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
 
 ## 🌱 Fun Facts
 - 🎨 I love painting and digital art.
