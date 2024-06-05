@@ -1,5 +1,5 @@
 # Hi there, I'm Kiarash Rastegar 👋
-
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 🌟 Introduction
 I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, data analysis, and machine learning engineering. With a strong background in biological and medical informatics, I love creating innovative solutions and contributing to open-source projects. My main passion and interests lie in applying and developing new ML models to the realm of Biology and diagnostics
 
@@ -7,10 +7,10 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 - 🌱 I’m currently learning: Advanced machine learning techniques and high throughput computing.
 - 👯 I’m looking to collaborate on: Bioinformatics projects and machine learning research.
 - 💬 Ask me about: Machine learning, bioinformatics tools, and data analysis.
-
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 🛠️ Skills and Technologies
-
+ ![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -52,22 +52,28 @@ I'm Kiarash Rastegar, a passionate developer specializing in bioinformatics, dat
 ![DRAM](https://img.shields.io/badge/DRAM-4B8BBE?style=flat&logo=dram&logoColor=white)
 ![salmon](https://img.shields.io/badge/salmon-4B8BBE?style=flat&logo=salmon&logoColor=white)
 ![nextflow](https://img.shields.io/badge/nextflow-4B8BBE?style=flat&logo=nextflow&logoColor=white)
-
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+ 
 ## 🚀 Projects
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 Here are some of my notable projects:
 - [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines](https://colab.research.google.com/drive/1L2FKnlWWphCRIgh5LXKymLgeI-3RhlN5?usp=sharing) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
 - [Tumor Classification](https://colab.research.google.com/drive/12f7J5FHwg043vFNRnTRNlCgEOc9r-_YT) - Developed predictive models using machine learning techniques to classify malignant vs benign breast cancer data.
 - [Optimized Cancer Cluster Analysis with Feature Selection](https://krastegar.github.io/Data_Analysis_withR/) - Used unsupervised learning and feature selection techniques to improve cancer cluster analysis.
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 📈 GitHub Stats
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krastegar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krastegar&layout=compact&theme=radical)
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## 📫 Contact Me
 - Email: krastegar0@gmail.com
 - LinkedIn: [KiaLinkedIN](https://www.linkedin.com/in/kia-rast/)
 
 ## 🌱 Me at Home
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ![Coding Experience](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
