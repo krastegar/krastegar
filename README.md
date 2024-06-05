@@ -1,4 +1,4 @@
-# Hi there, I'm Kiarash Rastegar 
+# Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px" height="30px"> I'm Kiarash Rastegar 
 
 ![Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 🌟 Introduction
