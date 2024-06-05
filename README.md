@@ -83,4 +83,4 @@ https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-
   <p style="background-color: #f0f0f0; padding: 10px;">Images are AI generated from ChatGPT GIF Maker. We love AI 😃 </p>
 </details>
 
-<br>Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
+Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
