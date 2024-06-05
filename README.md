@@ -2,6 +2,7 @@
 <!-- https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif -->
 <!-- ![Cyber Coder](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif) -->
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400px" height="400px">
+<br>
 ## 🌟 Introduction
 Greetings! I'm Kiarash Rastegar, a dedicated developer deeply passionate about bioinformatics, data analysis, and machine learning. With expertise in biological and medical informatics, I thrive on crafting innovative solutions. My passion lies in exploring AI's transformative potential in Healthcare and Biology, driving me to revolutionize diagnostics, expedite drug discovery, and decode the human genome. Proficient in Object-Oriented Programming (OOP), I specialize in building advanced AI applications using Python. From elegant neural networks to robust ML pipelines, I leverage Python's ecosystem to realize my visions. Join me in this exhilarating journey into AI, where each line of code embodies passion, purpose, and a relentless pursuit of excellence. Together, let's unlock life's secrets and pave a brighter, healthier future for humanity.
 
