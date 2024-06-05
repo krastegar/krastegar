@@ -10,7 +10,7 @@ Greetings! I'm Kiarash Rastegar, a dedicated developer deeply passionate about b
 - 💬 Ask me about: Machine learning, bioinformatics tools, and data analysis.
 
 
-## 🛠️ Skills and Technologies
+## <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="100px" height="100px"> Skills and Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,14 +53,6 @@ Greetings! I'm Kiarash Rastegar, a dedicated developer deeply passionate about b
 ![DRAM](https://img.shields.io/badge/DRAM-4B8BBE?style=flat&logo=dram&logoColor=white)
 ![salmon](https://img.shields.io/badge/salmon-4B8BBE?style=flat&logo=salmon&logoColor=white)
 ![nextflow](https://img.shields.io/badge/nextflow-4B8BBE?style=flat&logo=nextflow&logoColor=white)
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="100px" height="100px"> Projects
-
-Here are some of my notable projects:
-- [Predictive Modeling of Long-Term Antibody Responses to Viral Vaccines](https://colab.research.google.com/drive/1L2FKnlWWphCRIgh5LXKymLgeI-3RhlN5?usp=sharing) - Employed various statistical techniques to predict long-term antibody responses based on pre-vaccination data.
-- [Tumor Classification](https://colab.research.google.com/drive/12f7J5FHwg043vFNRnTRNlCgEOc9r-_YT) - Developed predictive models using machine learning techniques to classify malignant vs benign breast cancer data.
-- [Optimized Cancer Cluster Analysis with Feature Selection](https://krastegar.github.io/Data_Analysis_withR/) - Used unsupervised learning and feature selection techniques to improve cancer cluster analysis.
 
 ## 📈 GitHub Stats
 
