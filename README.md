@@ -56,12 +56,12 @@ Greetings! I'm Kiarash Rastegar, a dedicated developer deeply passionate about b
 ![salmon](https://img.shields.io/badge/salmon-4B8BBE?style=flat&logo=salmon&logoColor=white)
 ![nextflow](https://img.shields.io/badge/nextflow-4B8BBE?style=flat&logo=nextflow&logoColor=white)
 
-## 📈 GitHub Stats
+##  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100px" height="100px"> GitHub Stats
 
 ![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krastegar&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krastegar&layout=compact&theme=dark)
 
-## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100px" height="100px"> My Future Self
+## Vision and Goals 
 <!--
 https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif
 ![Bioinformatics](https://github.com/krastegar/krastegar/blob/main/1717555914013fxwzup19.png)
@@ -71,10 +71,8 @@ https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-
 </details>
 -->
  - My journey into bioinformatics and AI has been fueled by a relentless curiosity and a passion for solving challenging problems. As the famous quote by Albert Einstein goes, "Life is like riding a bicycle. To keep your balance, you must keep moving." I am committed to moving forward, learning, and evolving in my career to make a lasting impact in my field.<br>
- 
-### Vision and Goals 
- - I aspire to make a profound impact by developing cutting-edge AI applications that can tackle complex biological problems. My aim is to contribute to groundbreaking research and projects that can pave the way for a healthier future for humanity. In the coming years, I envision myself taking on leadership roles where I can mentor and guide new talent in the field. I aim to be an active contributor to the scientific community, sharing knowledge and collaborating on innovative projects.
 
+![molecules](https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4MDIwMzAsIm5iZiI6MTcxNzgwMTczMCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA3VDIzMDg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwMmI4NjdiYTkwZTM2ZTg1YTk3N2FjNzk0OTA4NzFiYzgzYTliNjgzMWU2MjZjNTdmZjAwMDMzODQxNTc1Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AdwvMOwnDl62vZgIu3tjaiqaY7ef81o9csQyXSuaBwM)
 
 
 All of the GIFs used can be found here [GIF page](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#animated-hello-). <br>
