@@ -64,13 +64,18 @@ Greetings! I'm Kiarash Rastegar, a dedicated developer deeply passionate about b
 ## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100px" height="100px"> My Future Self
 <!--
 https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif
--->
 ![Bioinformatics](https://github.com/krastegar/krastegar/blob/main/1717555914013fxwzup19.png)
-
 <details>
   <summary style="font-weight: bold; font-size: 16px;">Important Note</summary>
   <p style="background-color: #f0f0f0; padding: 10px;">The images above are AI generated from ChatGPT GIF Maker. We love AI 😃 </p>
 </details>
+-->
+ - My journey into bioinformatics and AI has been fueled by a relentless curiosity and a passion for solving challenging problems. As the famous quote by Albert Einstein goes, "Life is like riding a bicycle. To keep your balance, you must keep moving." I am committed to moving forward, learning, and evolving in my career to make a lasting impact in my field.<br>
+ 
+### Vision and Goals 
+ - I aspire to make a profound impact by developing cutting-edge AI applications that can tackle complex biological problems. My aim is to contribute to groundbreaking research and projects that can pave the way for a healthier future for humanity. In the coming years, I envision myself taking on leadership roles where I can mentor and guide new talent in the field. I aim to be an active contributor to the scientific community, sharing knowledge and collaborating on innovative projects.
+
+
 
 All of the GIFs used can be found here [GIF page](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#animated-hello-). <br>
 
